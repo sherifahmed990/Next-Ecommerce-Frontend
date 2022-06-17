@@ -10,4 +10,4 @@ NextJS Frontend with Authentication, Stripe for Checkout Payment, Strapi for Pro
 Check /utils/urls for ENV Variables setup
 
 Backend at:
-https://github.com/GalloDaSballo/Next-Ecommerce-Backend
+[https://github.com/GalloDaSballo/Next-Ecommerce-Backend](https://github.com/sherifahmed990/Next-Ecommerce-Backend)
